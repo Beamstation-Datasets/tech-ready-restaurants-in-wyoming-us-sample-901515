@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Wyoming, US",
+  "export_job_id": "6274fc0f-676f-47a9-8776-6207c29c1396",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 901515,
+  "location_name": "Wyoming",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-wyoming-us-sample-901515",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/901515/beamstation_901515_restaurants-us-wy_SAMPLE_DIST.csv",
+  "sample_pct": 7.69,
+  "sample_records": 1,
+  "sample_sha256": "e164c1f1e641ec1c36e0cf3a83a2895dec217605bf35f6391790d6a880278711",
+  "sample_size_bytes": 19988,
+  "total_records": 13,
+  "updated_at": "2026-04-29T16:03:15.868189+00:00"
+}
