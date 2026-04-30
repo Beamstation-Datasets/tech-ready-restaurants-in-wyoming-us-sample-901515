@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6274fc0f-676f-47a9-8776-6207c29c1396",
+  "id_short": 901515,
+  "published_at": "2026-04-30T07:46:44Z",
+  "repo_name": "tech-ready-restaurants-in-wyoming-us-sample-901515",
+  "sample_asset_name": "beamstation_901515_restaurants-us-wy_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/901515/beamstation_901515_restaurants-us-wy_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "e164c1f1e641ec1c36e0cf3a83a2895dec217605bf35f6391790d6a880278711",
+  "sample_size_bytes": 19988,
+  "total_records": 13
+}
